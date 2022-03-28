@@ -1,4 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
+# Not for re-coding or copy cating.
+
+## Just for learning how's this code.
+
+### Don't bully me please.
+
+#### All credit's goes to respected Owners
+
+</p>
+
+
+
+<p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=25&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
 <div align="center">
         <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
 </p>
