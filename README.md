@@ -1,6 +1,6 @@
 # Not for re-coding or copy cating.
 
-## Just for learning how's this code.
+## Just for learning how's this code work.
 
 ### Don't bully me please.
 
@@ -8,34 +8,59 @@
 
 </p>
 
+# 𝙴𝚟𝚊𝚗𝚒𝚊-1.2
+𝙴𝚟𝚊𝚗𝚒𝚊 𝚒𝚜 𝚊 𝚆𝙰 𝙱𝚘𝚝 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙸𝚝𝚣𝚖𝚎-𝙻𝚞𝚌𝚒𝚏𝚎𝚛 | 𝙰𝚔𝚑𝚒𝚕
+</p>
 
+<div align="center">
+  
+  [![Evania](https://telegra.ph/file/7a89888972934afb097f3.jpg)](https://github.com/Itzme-lucifer/Evania-1.2)[`𝙴𝚟𝚊𝚗𝚒𝚊-1.2`](https://github.com/Itzme-lucifer/Evania-1.2)
+
+</p>
 
 <p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=25&lines=WELCOME+TO+TOXIC-ALEXA;THIS+BOT+MADE+BY+TURBO+%26+JIFI)](https://git.io/typing-svg)
-<div align="center">
-        <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
+### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚜 𝚜𝚝𝚒𝚕𝚕 𝚒𝚗 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜. 
+
 </p>
 
-<a href="#"><img title="Toxic-Alexa" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+𝚁𝚎𝚕𝚎𝚊𝚜𝚒𝚗𝚐 𝚂𝚘𝚘𝚗... ✨️
+
 </p>
-  <p align="center">
+<p align="center"><a href="https://github.com/Itzme-lucifer"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer 
+
 </p>
+
 </div>
+
+</p>
+
 <p align="center">
-Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to make it public
+Project created by <a href="https://github.com/Itzme-lucifer">𝙸𝚝𝚣𝚖𝚎-𝚕𝚞𝚌𝚒𝚏𝚎𝚛</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TOXICTURBO/Toxic-Alexa&title=Toxic-Alexa%20Views)
+### 𝙺𝚎𝚎𝚙 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚖𝚎
 
-## Setup
-<div align="center">
 
-  ### Simple Method
+<p align="center">
+<a href="https://instagram.com/itzme_lucifer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thorloki_official" height="30" width="40" /></a>
+<a href="https://twitter.com/itzmelucifer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzmelucifer" height="30" width="40" /></a>
+<a href="https://fb.com/akkuzz akhil akkuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akkuzz akhil akkuzz" height="30" width="40" /></a>
+
+</p>
+
+#### Profile Views 
+<p align="center">
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Itzme-lucifer&title=Itzme-lucifer%20Views)
+
+</p>
+
+### 𝙳𝚎𝚙𝚕𝚘𝚢
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-Alexa?v=1)
   
@@ -47,8 +72,8 @@ Project created by <a href="https://github.com/TOXICTURBO">Turbo-Jifi</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/Itzme-lucifer/Evania-1.2
+$ cd Evania-1.2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node toxic-alexa.js
@@ -56,50 +81,16 @@ $ node toxic-alexa.js
       
 ```js
 SETUP
-$ git clone https://github.com/TURBOHYPER/Toxic-Alexa
-$ cd Toxic-Alexa
+$ git clone https://github.com/Itzme-lucifer/Evania-1.2
+$ cd Evania-1.2
 $ npm i
 $ node toxic-alexa.js
 ```
 
 ----
 
-  <p align="center">
-  <a href="https://github.com/TOXICTURBO/Toxic-Alexa">
-    
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/TOXICTURBO?color=blue&style=flat-square"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/TOXICTURBO/Toxic-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TOXICTURBO/Toxic-Alexa?color=blue&style=flat-trangle"></a>
+
 </p>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
-  <div align="center">
-
-
-Click WA logo to Join public bot Group👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
-  <div align="center">
-
-  </div>
-
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://www.youtube.com/c/TurboMods)
-
-
-### contact on instagram👇
-
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
 
 
 ### ⚠️ Warning! 
@@ -110,12 +101,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-  <div align="center">
-    
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TOXICTURBO) | [![Toxic-Jifi](https://github.com/MD-JIFI.png?size=100)](https://github.com/MD-JIFI) | [![Toxic-Shadow](https://github.com/SPARK-SHADOW.png?size=100)](https://github.com/SPARK-SHADOW) 
-----|----|----
-[Toxic-Turbo](https://github.com/TOXICTURBO) | [Toxic-Jifi](https://github.com/MD-JIFI) | [Toxic-Shadow](https://github.com/SPARK-SHADOW) 
+####
 Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules |  Developer, Base, Bug Fixes, Modules
   </div>
     
