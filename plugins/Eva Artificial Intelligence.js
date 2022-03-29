@@ -1,4 +1,5 @@
 /*Alexa coded By Turbo
+Re-edited by Itzme lucifer
 */
 
 
@@ -27,7 +28,7 @@ let wk = conf.WORKTYPE == 'public' ? false : true
 var vtalk_dsc = ''
 var reply_eva = ''
 if (conf.LANG == 'TR') vtalk_dsc = 'Eva sesli sohbetini başlatır.', reply_eva = '*Herhangi Bir Sesli Mesaja Yanıt Verin!*'
-if (conf.LANG == 'EN') vtalk_dsc = 'Starts to Alexa voice chat.', reply_eva = '*Reply to Any Voice Message!*'
+if (conf.LANG == 'EN') vtalk_dsc = 'Starts to Evania voice chat.', reply_eva = '*Reply to Any Voice Message!*'
 if (conf.LANG == 'AZ') vtalk_dsc = 'Eva səsli söhbətinə başlayır.', reply_eva = '*Hər hansı bir səsli mesaja cavab verin!*'
 if (conf.LANG == 'PT') vtalk_dsc = 'Começa o bate-papo por voz de Eva.', reply_eva = '*Responder a qualquer mensagem de voz!*'
 if (conf.LANG == 'RU') vtalk_dsc = 'Запускает голосовой чат Eva.', reply_eva = '*Ответьте на любое голосовое сообщение!*'
@@ -232,18 +233,18 @@ var already_off = ''
 var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
-    fulleva_dsc = 'Tam fonksiyonel Alexa özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
-    already_on = 'Alexa yapay zekası halihazırda tüm fonksiyonları etkin.'
-    already_off = 'Alexa yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
-    succ_on = 'Alexa, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
-    succ_off = 'Alexa, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
+    fulleva_dsc = 'Tam fonksiyonel Evania özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
+    already_on = 'Evania yapay zekası halihazırda tüm fonksiyonları etkin.'
+    already_off = 'Evania yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
+    succ_on = 'Evania, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
+    succ_off = 'Evania, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
-    fulleva_dsc = 'Activates full functional Alexa features. Turn your account into a ai chatbot!'
-    already_on = 'Alexa artificial intelligence is already fully functional.'
-    already_off = 'Alexa artificial intelligence is currently running semi-functional.'
-    succ_on = 'Alexa Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Alexa Set to Semi-Functional! Please wait a bit! ☑️'
+    fulleva_dsc = 'Activates full functional Evania features. Turn your account into a ai chatbot!'
+    already_on = 'Evania artificial intelligence is already fully functional.'
+    already_off = 'Evania artificial intelligence is currently running semi-functional.'
+    succ_on = 'Evania Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Evania Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ സവിശേഷതകൾ സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
